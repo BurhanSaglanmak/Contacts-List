@@ -1,4 +1,8 @@
 # Contacts-List
+-Rehber kayıt ve arama uygulaması.
+-İsim soyisim ve telefon girdisi.
+-Kayıt butonu
+-Rehberin içinde arama(filtreleme) girdisi
 
 
 # Screenshot
